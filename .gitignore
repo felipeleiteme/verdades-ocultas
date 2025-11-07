@@ -19,12 +19,9 @@ UserSettings/
 *.unitypackage
 *.DS_Store
 
-# Ignore everything except verdades-ocultas project
+# Ignore everything except verdades-ocultas project files
 /*
 !/.gitignore
-!/Documents/
-/Documents/*
-!/Documents/Projetos/
-/Documents/Projetos/*
-!/Documents/Projetos/verdades-ocultas/
+!/README.md
+!/capitulo_*.md
 
