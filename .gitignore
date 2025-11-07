@@ -23,5 +23,8 @@ UserSettings/
 /*
 !/.gitignore
 !/README.md
-!/capitulo_*.md
-!/Sumario.md
+!/manuscrito/
+!/manuscrito/**
+!/dist/
+!/scripts/
+!/scripts/**
